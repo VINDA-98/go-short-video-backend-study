@@ -1,7 +1,7 @@
 package jwt
 
 import (
-	"TikTok/config"
+	"github.com/VINDA-98/go-short-video-backend-study/config"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
 	"net/http"

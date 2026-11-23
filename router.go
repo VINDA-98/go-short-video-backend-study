@@ -1,8 +1,8 @@
 package main
 
 import (
-	"TikTok/controller"
-	"TikTok/middleware/jwt"
+	"github.com/VINDA-98/go-short-video-backend-study/controller"
+	"github.com/VINDA-98/go-short-video-backend-study/middleware/jwt"
 	"github.com/gin-gonic/gin"
 )
 

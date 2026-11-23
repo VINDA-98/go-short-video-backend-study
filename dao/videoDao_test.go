@@ -1,7 +1,7 @@
 package dao
 
 import (
-	"TikTok/middleware/ftp"
+	"github.com/VINDA-98/go-short-video-backend-study/middleware/ftp"
 	"fmt"
 	"testing"
 	"time"

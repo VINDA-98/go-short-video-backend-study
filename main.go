@@ -1,12 +1,12 @@
 package main
 
 import (
-	"TikTok/dao"
-	"TikTok/middleware/ffmpeg"
-	"TikTok/middleware/ftp"
-	"TikTok/middleware/rabbitmq"
-	"TikTok/middleware/redis"
-	"TikTok/util"
+	"github.com/VINDA-98/go-short-video-backend-study/dao"
+	"github.com/VINDA-98/go-short-video-backend-study/middleware/ffmpeg"
+	"github.com/VINDA-98/go-short-video-backend-study/middleware/ftp"
+	"github.com/VINDA-98/go-short-video-backend-study/middleware/rabbitmq"
+	"github.com/VINDA-98/go-short-video-backend-study/middleware/redis"
+	"github.com/VINDA-98/go-short-video-backend-study/util"
 	"github.com/gin-contrib/pprof"
 	"github.com/gin-gonic/gin"
 )

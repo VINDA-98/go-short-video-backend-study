@@ -1,10 +1,10 @@
 package service
 
 import (
-	"TikTok/config"
-	"TikTok/dao"
-	"TikTok/middleware/rabbitmq"
-	"TikTok/middleware/redis"
+	"github.com/VINDA-98/go-short-video-backend-study/config"
+	"github.com/VINDA-98/go-short-video-backend-study/dao"
+	"github.com/VINDA-98/go-short-video-backend-study/middleware/rabbitmq"
+	"github.com/VINDA-98/go-short-video-backend-study/middleware/redis"
 	"log"
 	"sort"
 	"strconv"

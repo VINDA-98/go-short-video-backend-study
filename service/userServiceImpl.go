@@ -1,8 +1,8 @@
 package service
 
 import (
-	"TikTok/config"
-	"TikTok/dao"
+	"github.com/VINDA-98/go-short-video-backend-study/config"
+	"github.com/VINDA-98/go-short-video-backend-study/dao"
 	"crypto/hmac"
 	"crypto/sha256"
 	"encoding/hex"

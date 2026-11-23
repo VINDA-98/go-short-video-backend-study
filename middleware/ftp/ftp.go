@@ -1,7 +1,7 @@
 package ftp
 
 import (
-	"TikTok/config"
+	"github.com/VINDA-98/go-short-video-backend-study/config"
 	"github.com/dutchcoders/goftp"
 	"log"
 	"time"

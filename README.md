@@ -1,4 +1,4 @@
-# tiktok-study · Short-Video Backend Practice
+# Go Short-Video Backend Study
 
 [简体中文](README.zh-CN.md)
 

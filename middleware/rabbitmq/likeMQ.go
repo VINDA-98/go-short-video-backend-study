@@ -1,8 +1,8 @@
 package rabbitmq
 
 import (
-	"TikTok/config"
-	"TikTok/dao"
+	"github.com/VINDA-98/go-short-video-backend-study/config"
+	"github.com/VINDA-98/go-short-video-backend-study/dao"
 	"errors"
 	"fmt"
 	"github.com/streadway/amqp"

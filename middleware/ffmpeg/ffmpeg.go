@@ -1,7 +1,7 @@
 package ffmpeg
 
 import (
-	"TikTok/config"
+	"github.com/VINDA-98/go-short-video-backend-study/config"
 	"fmt"
 	"golang.org/x/crypto/ssh"
 	"log"

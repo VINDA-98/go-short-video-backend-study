@@ -1,8 +1,8 @@
 package dao
 
 import (
-	"TikTok/config"
-	"TikTok/middleware/ftp"
+	"github.com/VINDA-98/go-short-video-backend-study/config"
+	"github.com/VINDA-98/go-short-video-backend-study/middleware/ftp"
 	"io"
 	"log"
 	"time"

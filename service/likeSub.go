@@ -1,6 +1,6 @@
 package service
 
-import "TikTok/dao"
+import "github.com/VINDA-98/go-short-video-backend-study/dao"
 
 type LikeSub struct {
 }

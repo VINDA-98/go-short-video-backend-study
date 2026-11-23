@@ -1,4 +1,4 @@
-# tiktok-study · 短视频后端练习
+# Go 短视频后端练习
 
 [English](README.md)
 

@@ -1,7 +1,7 @@
 package rabbitmq
 
 import (
-	"TikTok/dao"
+	"github.com/VINDA-98/go-short-video-backend-study/dao"
 	"fmt"
 	"github.com/streadway/amqp"
 	"log"

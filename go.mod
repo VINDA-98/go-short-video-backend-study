@@ -1,4 +1,4 @@
-module TikTok
+module github.com/VINDA-98/go-short-video-backend-study
 
 go 1.17
 

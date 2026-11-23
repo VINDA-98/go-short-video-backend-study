@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/tiktok-study.iml" filepath="$PROJECT_DIR$/.idea/tiktok-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/go-short-video-backend-study.iml" filepath="$PROJECT_DIR$/.idea/go-short-video-backend-study.iml" />
     </modules>
   </component>
 </project>

@@ -1,9 +1,9 @@
 package service
 
 import (
-	"TikTok/config"
-	"TikTok/dao"
-	"TikTok/middleware/ffmpeg"
+	"github.com/VINDA-98/go-short-video-backend-study/config"
+	"github.com/VINDA-98/go-short-video-backend-study/dao"
+	"github.com/VINDA-98/go-short-video-backend-study/middleware/ffmpeg"
 	"github.com/satori/go.uuid"
 	"log"
 	"mime/multipart"

@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"TikTok/service"
+	"github.com/VINDA-98/go-short-video-backend-study/service"
 	"fmt"
 	"github.com/gin-gonic/gin"
 	"log"
