@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-这是一个 Go 练习项目，基于短视频后端 [HammerCloth/tiktok](https://github.com/HammerCloth/tiktok)。可以从 [`router.go`](router.go) 开始，沿着 Gin 路由、JWT 中间件、控制器、服务层和数据访问层查看请求如何处理。
+基于 [HammerCloth/tiktok](https://github.com/HammerCloth/tiktok) 的 Go 短视频后端练习。从 [`router.go`](router.go) 可以追踪请求如何经过 JWT 中间件、控制器、服务层和数据访问层。
 
 ## API 模块
 

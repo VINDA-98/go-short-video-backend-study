@@ -2,7 +2,7 @@
 
 [简体中文](README.zh-CN.md)
 
-A Go study project based on the Douyin-style short-video backend [HammerCloth/tiktok](https://github.com/HammerCloth/tiktok). Read [`router.go`](router.go) to follow a request from a Gin route through JWT middleware, a controller, the service layer, and the data-access layer.
+A Go short-video backend study based on [HammerCloth/tiktok](https://github.com/HammerCloth/tiktok). Use [`router.go`](router.go) to trace a request from its Gin route through JWT middleware, the controller, service and data-access code.
 
 ## API modules
 
